@@ -21,3 +21,7 @@ A full-stack **Todo Application** built with **ReactJS (Frontend)** and **Django
 - Django
 - Django REST Framework
 - CORS Headers
+
+### Todo Application
+
+![screenshot](Todo_App.png)
